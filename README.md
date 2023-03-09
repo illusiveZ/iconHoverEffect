@@ -4,4 +4,6 @@ Made using:
 - HTML
 - CSS
 
+GIF showing the effect in operation:
+
 <img src='https://github.com/illusiveZ/iconHoverEffect/blob/main/iconHover.gif' />
